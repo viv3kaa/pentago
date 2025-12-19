@@ -1,5 +1,5 @@
-# pentago
-PS0001 Intro to Computing- Pentago Project
+# PS0001 Intro to Computing- Pentago Project
+
 Try playing this mini game of pentago!
 You can either play with your friend or the computer itself, just choose accordingly!
 Just some things to take note:
